@@ -1,0 +1,2 @@
+window.SUPABASE_URL="https://TON-PROJET.supabase.co";
+window.SUPABASE_ANON_KEY="TA_CLE_ANON_OU_PUBLISHABLE";
